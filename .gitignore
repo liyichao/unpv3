@@ -30,4 +30,7 @@ bject files
 
 # Debug files
 *.dSYM/
-
+Make.defines
+config.h
+config.log
+config.status
